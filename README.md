@@ -46,9 +46,9 @@
 - **《月溪法师讲大乘绝对论》** : 请访问 [香港万佛寺网站 -> 月溪文集-> 月溪法师讲大乘绝对论(一)](http://www.10kbuddhas.org/index.do) 阅读或下载。
 ---
 
-## 交流讨论
+## 阅读、聆听法禅师父开示、讲法录音mp3(禅的精神与特色…等等)，与交流讨论区
 
-欢迎您访问本仓库的 **[Discussions](https://github.com/clayfu/Chan-books/discussions)** 板块，留言、交流或分享转传本「禅屋」网址—(https://github.com/clayfu/Chan-books)。
+请点击开启 **[Discussions](https://github.com/clayfu/Chan-books/discussions)** 板块，留言、交流或分享转传本「禅屋」网址—(https://github.com/clayfu/Chan-books)。
 
 ---
 
