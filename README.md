@@ -68,5 +68,8 @@ Total visits:
 ![Visitor Count](https://hits.sh/github.com/clayfu/Chan-books.svg?style=for-the-badge&label=Visitors&color=blue)
 
 
+*最後更新：2026年5月*
+
+```
 
 
