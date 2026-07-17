@@ -64,7 +64,9 @@
 
 ### 📊 訪客統計
 
-累積瀏覽人次：<img src="https://glitch.me" alt="訪客計數器">
+累積瀏覽人次：  
+![Visitor Count](https://api.countapi.xyz/hit/clayfu/Chan-books?render=badge)
+
 
 *最後更新：2026年5月*
 
