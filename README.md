@@ -33,10 +33,7 @@ markdown
 **EPUB電子書** [點擊下載](https://github.com/clayfu/Chan-books/raw/refs/heads/main/The-Metaphysic-Science-of-the-Mind.epub)
 
 - 英文版 / 中英双语版: (完成后)
----
-**下载方法**：
-- **手机**：长按上方对应的下载链接，点击「开启」，选择浏览器或阅读器即可下载。
-- **电脑**：复制上方对应的下载链接，粘贴到浏览器的新网页中打开，文件会自动开始下载。                                                             ---                                                                                                                                      -
+                                                        ---                                                                                                                                      -
 ## 祖师法宝以及…
 
 - **《六祖大师法宝坛经》**（CBETA大正新修大藏经第48册 No. 2008，宗宝编）：[点击下载EPUB](https://github.com/clayfu/Chan-books/raw/refs/heads/main/The-Platform-Sutra-of-the-Sixth-Patriarch.epub)                                         
