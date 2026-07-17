@@ -1,4 +1,4 @@
-```markdown
+markdown
 # 🏠 禅屋 | Chan Books
 
 ## 本站宗旨
@@ -66,8 +66,8 @@
 
 ![Visitor Count](https://hits.sh/github.com/clayfu/Chan-books.svg)
 
-*最後更新：2026年5月*
+*最後更新：2026年7月*
 
-```
+
 
 
