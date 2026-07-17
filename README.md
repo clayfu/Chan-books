@@ -62,7 +62,7 @@ markdown
 
 ---
 
-### 📊 Visitor Counter
+### 📊 訪客數
 
 ![Visitor Count](https://hits.sh/github.com/clayfu/Chan-books.svg)
 
