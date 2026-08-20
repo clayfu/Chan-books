@@ -44,10 +44,10 @@
 
 ## 閱讀重要經文、月溪法師與法禪師父法語(佛法的信與歸依;佛法的智慧;什麼是佛? 成佛之道;什麼是禪或參禪?佛法的空、我與無我;轉識成智;了脫生死之道;佛法的業;禪的精神與特色…等等)，以及交流討論區
 
-請點擊開啟 **[Discussions](https://github.com/clayfu/Chan-books/discussions)** 板塊，留言、交流或分享轉傳本「禪屋」網址—中文(https://github.com/clayfu/Chan-books);英文(https://github.com/clayfu/Chan-house)。
+請點擊開啟 **[Discussions](https://github.com/clayfu/Chan-books/discussions)** 板塊，留言、交流或分享轉傳本「禪屋」網址—中文: https://github.com/clayfu/Chan-books ; 英文:  https://github.com/clayfu/Chan-house 。
 
 ---
-
+ 
 ### 🙏 結語
 
 > 「我相信，這本禪書所引用的經文及法語，應該可以讓西方人瞭解真正上乘佛法與禪的原貌，並能喚醒全世界華人社會中的大智人，重拾這已近失傳的唐宋珍寶。」
